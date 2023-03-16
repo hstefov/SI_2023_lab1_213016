@@ -1,0 +1,36 @@
+commit 572ff8fc5a2801f6e0a5d3d1b1f5ef3046dac61e (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Hristijan Stefov <kikostefov@gmail.com>
+Date:   Thu Mar 16 12:30:55 2023 +0100
+
+     Fix method sumEvenNumbers
+
+commit a73fa303470776c272a4e5575d6adb7266cb5037
+Merge: 67f146b eaa2fe5
+Author: Hristijan Stefov <kikostefov@gmail.com>
+Date:   Thu Mar 16 12:33:08 2023 +0100
+
+    Merge branch 'bug2'
+
+commit eaa2fe50652c9c836a48140d98520b9c874e7187 (origin/bug2, bug2)
+Author: Hristijan Stefov <kikostefov@gmail.com>
+Date:   Thu Mar 16 12:29:57 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 67f146b2c389b6ed8edc050b98dbed8a6a34b589 (origin/bug1, bug1)
+Author: Hristijan Stefov <kikostefov@gmail.com>
+Date:   Thu Mar 16 12:29:01 2023 +0100
+
+    Fix wrong loop for reading
+
+commit f3795983a156bdbb4c9677cb42184c4bb4fa0e88
+Author: Hristijan Stefov <kikostefov@gmail.com>
+Date:   Thu Mar 16 12:26:56 2023 +0100
+
+    Add java class
+
+commit df962bdad6c52bebab4cf35dde32481b4ad4d959
+Author: Hristijan Stefov <kikostefov@gmail.com>
+Date:   Thu Mar 16 12:25:10 2023 +0100
+
+    Initial commit
